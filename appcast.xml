@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Product Uploader Updates</title>
+    <!-- Items are prepended by scripts/release-update.sh in the app repo -->
+  </channel>
+</rss>
