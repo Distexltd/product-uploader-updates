@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
+    <item>
+      <title>Version 12.0</title>
+      <description><![CDATA[Stock Check (shared ticks), GraphQL migration, Gemini 3.7, auto-updates]]></description>
+      <pubDate>Fri, 14 Aug 2026 10:48:03 +0100</pubDate>
+      <sparkle:version>2608141047</sparkle:version>
+      <sparkle:shortVersionString>12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.0/ProductUploader-12.0.zip" sparkle:edSignature="l354yneNd85vPkIUl6vYhJQChSvT1UDxHxS6M5Xkz2P15zh2sa7fQhsdtV/HuuFIrUncn3klF0xATCb2OL2hCw==" length="4650592" type="application/octet-stream"/>
+    </item>
     <!-- Items are prepended by scripts/release-update.sh in the app repo -->
   </channel>
 </rss>
