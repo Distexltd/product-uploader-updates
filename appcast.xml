@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-        <item>
+            <item>
+      <title>Version 12.2</title>
+      <description><![CDATA[Sparkle installer fix for sandboxed app - final manual install]]></description>
+      <pubDate>Sat, 15 Aug 2026 10:59:20 +0100</pubDate>
+      <sparkle:version>2608151058</sparkle:version>
+      <sparkle:shortVersionString>12.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.2/ProductUploader-12.2.zip" sparkle:edSignature="m89dImIGM68qO3/zq9QliawjeyfWaPTUVFQ2D0LFcig4ptrRkBR6wNNtOPRQXLPDnB8ZZ49qzvxg4pP2T6kMDg==" length="4650910" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.1</title>
       <description><![CDATA[eBay listings now require your selected business policies (no more shadow same-day dispatch)]]></description>
       <pubDate>Sat, 15 Aug 2026 10:31:13 +0100</pubDate>
