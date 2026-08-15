@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
+        <item>
+      <title>Version 12.1</title>
+      <description><![CDATA[eBay listings now require your selected business policies (no more shadow same-day dispatch)]]></description>
+      <pubDate>Sat, 15 Aug 2026 10:31:13 +0100</pubDate>
+      <sparkle:version>2608151030</sparkle:version>
+      <sparkle:shortVersionString>12.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.1/ProductUploader-12.1.zip" sparkle:edSignature="4pa3aAphrNUYN6kRSdzk9DQfqcGS3Zjap49NPice7v8wlEUoeqPV/EDmgCiPwwi7f6HyE5UfvhY9CSUPO5a+DQ==" length="4650817" type="application/octet-stream"/>
+    </item>
     <item>
       <title>Version 12.0</title>
       <description><![CDATA[Stock Check (shared ticks), GraphQL migration, Gemini 3.7, auto-updates]]></description>
