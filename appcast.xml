@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-            <item>
+                <item>
+      <title>Version 12.3</title>
+      <description><![CDATA[Gemini 3.8 Flash added]]></description>
+      <pubDate>Thu, 03 Sep 2026 10:15:15 +0100</pubDate>
+      <sparkle:version>2609031014</sparkle:version>
+      <sparkle:shortVersionString>12.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.3/ProductUploader-12.3.zip" sparkle:edSignature="kCkJoAsmuL+7f7IN3PeCduCIagbr51z/w32L1dj2FRuAEw9bBlF42yqdBRrD6RtQ7m/u9PMXuhdOpWspaP6XDw==" length="4651275" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.2</title>
       <description><![CDATA[Sparkle installer fix for sandboxed app - final manual install]]></description>
       <pubDate>Sat, 15 Aug 2026 10:59:20 +0100</pubDate>
