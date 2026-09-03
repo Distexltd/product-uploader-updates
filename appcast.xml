@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                <item>
+                    <item>
+      <title>Version 12.4</title>
+      <description><![CDATA[Collection-only shipping for computers, iMacs and monitors - auto profile assignment and description note]]></description>
+      <pubDate>Thu, 03 Sep 2026 10:44:50 +0100</pubDate>
+      <sparkle:version>2609031044</sparkle:version>
+      <sparkle:shortVersionString>12.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.4/ProductUploader-12.4.zip" sparkle:edSignature="3idbd8Nr54zUprFO15PEH4z5qgqTtvDCZkU9cE3+R/YIXJjQeoJWOHyo6c5V9Nuik92lK3J1G/qa3w5UidRyCQ==" length="4656326" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.3</title>
       <description><![CDATA[Gemini 3.8 Flash added]]></description>
       <pubDate>Thu, 03 Sep 2026 10:15:15 +0100</pubDate>
