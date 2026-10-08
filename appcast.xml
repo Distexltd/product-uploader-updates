@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                        <item>
+                            <item>
+      <title>Version 12.6</title>
+      <description><![CDATA[Fixes in-app updates on every Mac (Sparkle installer now runs outside the sandbox; helpers signed). Includes 12.5: duplicate-upload protection, scrolling Review boxes, label-first Gemini reading.]]></description>
+      <pubDate>Thu, 08 Oct 2026 16:40:42 +0100</pubDate>
+      <sparkle:version>2610081640</sparkle:version>
+      <sparkle:shortVersionString>12.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.6/ProductUploader-12.6.zip" sparkle:edSignature="D9hd3qnMZPOlaf24HfYTTEWbWcNoAc36XxLiYPL3Xx0DaVOxZdzCnHxxd4RPAfw+Acqka3Fc60erPw0rjamUCA==" length="4711258" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.5</title>
       <description><![CDATA[Duplicate-upload protection (same-batch SKU dedup, fail-closed check, exact SKU match, re-check before retries). Review boxes now scroll sideways and follow the cursor. Gemini: label-first model reading, bigger output cap, deprecated parameters removed.]]></description>
       <pubDate>Thu, 08 Oct 2026 16:01:28 +0100</pubDate>
