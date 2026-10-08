@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                    <item>
+                        <item>
+      <title>Version 12.5</title>
+      <description><![CDATA[Duplicate-upload protection (same-batch SKU dedup, fail-closed check, exact SKU match, re-check before retries). Review boxes now scroll sideways and follow the cursor. Gemini: label-first model reading, bigger output cap, deprecated parameters removed.]]></description>
+      <pubDate>Thu, 08 Oct 2026 16:01:28 +0100</pubDate>
+      <sparkle:version>2610081600</sparkle:version>
+      <sparkle:shortVersionString>12.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.5/ProductUploader-12.5.zip" sparkle:edSignature="wKhJ7JzocBMjAIXaIvHCuDGZ9pPOlxh+mKCRfqZJwvHMBeZ81mCIAeDM8YGQFsZVdMdZsOkqaAJbNeqZ3jDbAw==" length="4686577" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.4</title>
       <description><![CDATA[Collection-only shipping for computers, iMacs and monitors - auto profile assignment and description note]]></description>
       <pubDate>Thu, 03 Sep 2026 10:44:50 +0100</pubDate>
