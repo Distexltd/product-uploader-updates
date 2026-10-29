@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                            <item>
+                                <item>
+      <title>Version 12.7</title>
+      <description><![CDATA[Fixes new API keys not saving on some Macs; experimental On-Device AI settings]]></description>
+      <pubDate>Thu, 29 Oct 2026 15:57:54 +0000</pubDate>
+      <sparkle:version>2610291557</sparkle:version>
+      <sparkle:shortVersionString>12.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.7/ProductUploader-12.7.zip" sparkle:edSignature="XuUcxZGSCzxLORviiBpH5lwFiuzxnTJ6ZpaBbkQuYmdFkCvj9q4s/F3yI2MMAm7XaWpkummzILK/WZrmsy/gCA==" length="4755282" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.6</title>
       <description><![CDATA[Fixes in-app updates on every Mac (Sparkle installer now runs outside the sandbox; helpers signed). Includes 12.5: duplicate-upload protection, scrolling Review boxes, label-first Gemini reading.]]></description>
       <pubDate>Thu, 08 Oct 2026 16:40:42 +0100</pubDate>
