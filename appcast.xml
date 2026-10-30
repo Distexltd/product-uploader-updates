@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                                <item>
+                                    <item>
+      <title>Version 12.8</title>
+      <description><![CDATA[Titles: *OLED Burn* when noted, Console on every console, storage size for Xbox]]></description>
+      <pubDate>Fri, 30 Oct 2026 12:03:00 +0000</pubDate>
+      <sparkle:version>2610301202</sparkle:version>
+      <sparkle:shortVersionString>12.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.8/ProductUploader-12.8.zip" sparkle:edSignature="laHvPa5b4166bArbI9Q6/qf7cMmbGILFQS/DBhqhO8fWhrI8dvRC05D0XysypZ6Gcego6plMgTBarYtdoCApDA==" length="4760317" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.7</title>
       <description><![CDATA[Fixes new API keys not saving on some Macs; experimental On-Device AI settings]]></description>
       <pubDate>Thu, 29 Oct 2026 15:57:54 +0000</pubDate>
