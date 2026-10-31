@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                                    <item>
+                                        <item>
+      <title>Version 12.9</title>
+      <description><![CDATA[Brand names over 30 characters fall back to Unknown (Google structured-data fix)]]></description>
+      <pubDate>Sat, 31 Oct 2026 09:15:44 +0000</pubDate>
+      <sparkle:version>2610310915</sparkle:version>
+      <sparkle:shortVersionString>12.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v12.9/ProductUploader-12.9.zip" sparkle:edSignature="n1+x7KQ9Bt90YhDRc6lM0rhY045ygwJwZp8gbE+5sHKfbijCmLfQL38XiMXmxv+J0UrfXGW40d54wtvYKhPKAw==" length="4760290" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.8</title>
       <description><![CDATA[Titles: *OLED Burn* when noted, Console on every console, storage size for Xbox]]></description>
       <pubDate>Fri, 30 Oct 2026 12:03:00 +0000</pubDate>
