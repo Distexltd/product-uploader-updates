@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                                        <item>
+                                            <item>
+      <title>Version 13.0</title>
+      <description><![CDATA[Clear message when Gemini prepay credits run out (402); failed items show the real reason]]></description>
+      <pubDate>Wed, 04 Nov 2026 16:48:47 +0000</pubDate>
+      <sparkle:version>2611041648</sparkle:version>
+      <sparkle:shortVersionString>13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v13.0/ProductUploader-13.0.zip" sparkle:edSignature="l1uNHSDu72wDphO1zUY4+IIXXYJbyncG9q2mPKd1CMs6/iiVBI4rp/40hG6UY3C//rAePen2/KgG9S32DT0sDQ==" length="4762019" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 12.9</title>
       <description><![CDATA[Brand names over 30 characters fall back to Unknown (Google structured-data fix)]]></description>
       <pubDate>Sat, 31 Oct 2026 09:15:44 +0000</pubDate>
