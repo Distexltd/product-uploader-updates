@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                                            <item>
+                                                <item>
+      <title>Version 13.1</title>
+      <description><![CDATA[New Marketplace page: export new stock for Facebook (photos, posting sheet, CSV), shared across Macs, with sold reminders]]></description>
+      <pubDate>Thu, 12 Nov 2026 13:17:50 +0000</pubDate>
+      <sparkle:version>2611121317</sparkle:version>
+      <sparkle:shortVersionString>13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v13.1/ProductUploader-13.1.zip" sparkle:edSignature="DjT7Oa+6s3N+hfYtjGZloKpMUmEUSgBd9YmWAGuaA/0X/VwHZPJjCjRTqxZMYW8Ar4PfJ4MAxcnbipfigV0uAw==" length="4880217" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 13.0</title>
       <description><![CDATA[Clear message when Gemini prepay credits run out (402); failed items show the real reason]]></description>
       <pubDate>Wed, 04 Nov 2026 16:48:47 +0000</pubDate>
