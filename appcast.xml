@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                                                <item>
+                                                    <item>
+      <title>Version 13.2</title>
+      <description><![CDATA[Keeps stock setting working after Shopify's January 2027 change. No change to how you use the app.]]></description>
+      <pubDate>Fri, 20 Nov 2026 16:31:15 +0000</pubDate>
+      <sparkle:version>2611201630</sparkle:version>
+      <sparkle:shortVersionString>13.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v13.2/ProductUploader-13.2.zip" sparkle:edSignature="YkEUVFWa54zkHgQpn0uYYKrwhurh+rx4bTwfA/Ny//KGWj7r64I1BAZCY8EcwUr29YVUNIzYlc+DVwUrI5y0AA==" length="4880776" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 13.1</title>
       <description><![CDATA[New Marketplace page: export new stock for Facebook (photos, posting sheet, CSV), shared across Macs, with sold reminders]]></description>
       <pubDate>Thu, 12 Nov 2026 13:17:50 +0000</pubDate>
