@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                                                    <item>
+                                                        <item>
+      <title>Version 13.3</title>
+      <description><![CDATA[Text boxes fixed: first click, drag to highlight, double-click and mouse-wheel scrolling now work, and highlights are visible (blue). New Last uploaded panel on the Dashboard shows the newest uploads from every Mac with the time each photo was taken.]]></description>
+      <pubDate>Sat, 21 Nov 2026 16:39:14 +0000</pubDate>
+      <sparkle:version>2611211638</sparkle:version>
+      <sparkle:shortVersionString>13.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v13.3/ProductUploader-13.3.zip" sparkle:edSignature="DQxNm0dR9IjpOrV33OuKQ5DDTowYpwflPp6LoQHoOOdEdQN3yQOVuA9Q/cReSaLJhe8PuxWw1kjRlM1y0f8OCQ==" length="4928621" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 13.2</title>
       <description><![CDATA[Keeps stock setting working after Shopify's January 2027 change. No change to how you use the app.]]></description>
       <pubDate>Fri, 20 Nov 2026 16:31:15 +0000</pubDate>
