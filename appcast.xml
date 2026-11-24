@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                                                        <item>
+                                                            <item>
+      <title>Version 13.4</title>
+      <description><![CDATA[New AI model choice in Settings: Gemini 4 Hydrogen (on trial, pick it on one Mac). Last uploaded panel now records in Settings > Logs whether each photo's time was saved. Squashed Platform label in the sidebar removed.]]></description>
+      <pubDate>Tue, 24 Nov 2026 20:06:23 +0000</pubDate>
+      <sparkle:version>2611242005</sparkle:version>
+      <sparkle:shortVersionString>13.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v13.4/ProductUploader-13.4.zip" sparkle:edSignature="9beU5mogtW186M15KQmS1oRqC16XLXFkas/p9cmM9zYW9fl+00C4K3HfR+27KOsrLFYhJUXCgGowhw/JmmwdBw==" length="4929392" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 13.3</title>
       <description><![CDATA[Text boxes fixed: first click, drag to highlight, double-click and mouse-wheel scrolling now work, and highlights are visible (blue). New Last uploaded panel on the Dashboard shows the newest uploads from every Mac with the time each photo was taken.]]></description>
       <pubDate>Sat, 21 Nov 2026 16:39:14 +0000</pubDate>
