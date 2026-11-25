@@ -2,7 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Product Uploader Updates</title>
-                                                            <item>
+                                                                <item>
+      <title>Version 13.5</title>
+      <description><![CDATA[New uploads now import into the till automatically: 5 minutes after the last upload the app opens Lightspeed's Shopify pull page in this Mac's browser (the browser must be signed in to Lightspeed). Switch and Import now button in Settings, API Keys.]]></description>
+      <pubDate>Wed, 25 Nov 2026 17:39:44 +0000</pubDate>
+      <sparkle:version>2611251739</sparkle:version>
+      <sparkle:shortVersionString>13.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Distexltd/product-uploader-updates/releases/download/v13.5/ProductUploader-13.5.zip" sparkle:edSignature="vElZ3rnzdd4ztQbhuNx1ccUwK3p5/1zFIQV2boqzkz7bn0lhNxcCRVgZQ/l6ATAbZ4xovkJUPKuW9QrvRppYCg==" length="4946061" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 13.4</title>
       <description><![CDATA[New AI model choice in Settings: Gemini 4 Hydrogen (on trial, pick it on one Mac). Last uploaded panel now records in Settings > Logs whether each photo's time was saved. Squashed Platform label in the sidebar removed.]]></description>
       <pubDate>Tue, 24 Nov 2026 20:06:23 +0000</pubDate>
